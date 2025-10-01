@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EasyCarsMaintenance.Models
 {
-    internal class Customer
+    internal class Owner
     {
     }
 }
